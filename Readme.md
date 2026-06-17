@@ -13,7 +13,7 @@ The dashboard provides interactive insights that help businesses understand cust
 
 ## 🚀 Dashboard Preview
 
-![Customer Dashboard](Customer Dashboard.png)
+![Customer Dashboard](Customer%20Dashboard.png)
 
 ---
 
