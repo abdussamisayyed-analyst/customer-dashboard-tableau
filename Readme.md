@@ -108,10 +108,6 @@ Special thanks to my institute and mentors for their continuous guidance and sup
 ### Skills
 Excel | SQL | Power BI | Tableau
 
-### Connect With Me
-- LinkedIn: [Add Your LinkedIn Profile Link]
-- GitHub: [Add Your GitHub Profile Link]
-
 ---
 
 ⭐ If you found this project useful, please consider giving it a star.
