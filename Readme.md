@@ -1,9 +1,6 @@
 # 📊 Customer Dashboard | Tableau Project
 
-> 🔗 LinkedIn Post: [Add LinkedIn Post Link Here]
-
-> 💼 Connect with Me on LinkedIn: [Add LinkedIn Profile Link Here]
-
+> 🔗 LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7472879968331390976/
 ---
 
 ## 📌 Project Overview
